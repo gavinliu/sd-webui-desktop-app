@@ -21,7 +21,7 @@
 ## FAQ
 
 - 为什么打开之后白屏？
-  - 本软件仅作为 `stable-diffusion-webui` 默认端口 `http://127.0.0.1:7860` 的客户端，不包含任何 stable-diffusion-webui 相关内容，安装请参考：[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui#installation-and-running)
+  - 本软件仅作为 `stable-diffusion-webui` 默认端口 `http://127.0.0.1:7860` 的客户端，不包含 `webui` 的任何内容，安装请参考：[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui#installation-and-running)
 - 为什么打开之后界面和上述截图不一致？
   - 截图为安装了 `sd-webui-lobe-theme` 扩展之后的效果，安装请参考：[sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme#-extension-installation)
 
